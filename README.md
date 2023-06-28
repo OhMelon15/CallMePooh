@@ -1,0 +1,3 @@
+- 👋 Hi, I’m CallMePooh
+- 👀 I’m interested in playing Osu! 
+- 🌱 I’m currently learning Python
