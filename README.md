@@ -1,3 +1,3 @@
-- 👋 Hi, I’m CallMePooh
-- 👀 I’m interested in playing Valorant. I'm main Jett, Reyna, and Omen
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Poi or u just call me An, idk:D
+- 👀 I’m interested in reading books
+- 🌱 I’m currently learning HTML 
