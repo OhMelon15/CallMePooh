@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Poi or u just call me An, idk:D
+- 👋 Hi, I’m An or u just call me Melon, idk:D
 - 👀 I’m interested in reading books
-- 🌱 I’m currently learning HTML 
+- 🌱 I’m currently learning Python to coding game:D
+ 
